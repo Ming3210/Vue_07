@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>B7</h1>
-    <message-children @send-message="showNotification"></message-children>
+    <MessageChildren @send-message="showNotification"></MessageChildren>
   </div>
 </template>
 
